@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817111504955",
+    "project_id": "mooddaily-cfa9a",
+    "storage_bucket": "mooddaily-cfa9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817111504955:android:588bb4969e3d4e6774641e",
+        "android_client_info": {
+          "package_name": "com.example.mood_daily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817111504955-5ok53qrr9pnlumgfghqjv0elshfpv2vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnwM7syPFnxDZB5DeAcLlt9oq_HM1v3SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817111504955-5ok53qrr9pnlumgfghqjv0elshfpv2vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
